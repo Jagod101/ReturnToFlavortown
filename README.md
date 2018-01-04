@@ -1,3 +1,3 @@
-![RTF-Logo](https://raw.githubusercontent.com/jagod101/ReturnToFlavortown/Images/GameLogo.png)
+![RTF-Logo](https://raw.githubusercontent.com/jagod101/ReturnToFlavortown/master/Images/GameLogo.png)
 
 # Return To Flavortown
